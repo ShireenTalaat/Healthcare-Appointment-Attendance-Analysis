@@ -12,7 +12,7 @@ This project conducts an in-depth exploratory data analysis (EDA) on a dataset o
 
 The analytical architecture involves ingesting raw appointment data, performing extensive data wrangling and cleaning, followed by exploratory data analysis. The process leverages Python for data manipulation and statistical analysis, with visualizations used to identify trends and relationships. The output is a set of key findings and insights that can inform operational improvements and predictive modeling efforts.
 
-![Healthcare Appointment Analysis Workflow](healthcare_workflow.png)
+![Healthcare Appointment Analysis Workflow](https://github.com/ShireenTalaat/Healthcare-Appointment-Attendance-Analysis/blob/e0373875107fb4d0e9e16b7b4462bd447bf4ebcc/Health.jpg)
 
 ## Technologies Used
 
